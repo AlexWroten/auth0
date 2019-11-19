@@ -1,4 +1,4 @@
-module gopkg.in/auth0.v1
+module github.com/AlexWroten/auth0
 
 go 1.12
 
